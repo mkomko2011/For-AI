@@ -1,0 +1,294 @@
+[
+  {
+    "id": "TM-001a",
+    "app": "talent",
+    "title": "Talent ログイン画面の文言と再設定リンク",
+    "status": "OK",
+    "notes": "再設定リンク: https://ints-dealreview.vercel.app/login",
+    "screenshot": "/home/user/For-AI/uat/out/screens/TM-001a.png",
+    "sec": "2.6",
+    "at": "2026-11-17T12:23:29.497Z"
+  },
+  {
+    "id": "RV-001a",
+    "app": "review",
+    "title": "Review ログイン画面の文言と再設定リンク",
+    "status": "OK",
+    "notes": "",
+    "screenshot": "/home/user/For-AI/uat/out/screens/RV-001a.png",
+    "sec": "2.2",
+    "at": "2026-11-17T12:23:31.746Z"
+  },
+  {
+    "id": "AC-001a",
+    "app": "accounts",
+    "title": "Accounts ログイン画面の文言",
+    "status": "OK",
+    "notes": "",
+    "screenshot": "/home/user/For-AI/uat/out/screens/AC-001a.png",
+    "sec": "2.1",
+    "at": "2026-11-17T12:23:33.888Z"
+  },
+  {
+    "id": "AUTH-GUARD",
+    "app": "talent",
+    "title": "未ログインで保護画面を開くとログイン画面へ戻る（4 製品）",
+    "status": "OK",
+    "notes": "",
+    "screenshot": "/home/user/For-AI/uat/out/screens/AUTH-GUARD.png",
+    "sec": "6.2",
+    "at": "2026-11-17T12:23:40.067Z"
+  },
+  {
+    "id": "TM-001",
+    "app": "talent",
+    "title": "ログイン後ダッシュボード（組織ダッシュボード＋管理）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.067Z"
+  },
+  {
+    "id": "TM-002",
+    "app": "talent",
+    "title": "ロール・人物紐付け一覧（4 名・注記）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.068Z"
+  },
+  {
+    "id": "TM-007",
+    "app": "talent",
+    "title": "コーポレートのサイドバー（①〜⑥・管理）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.068Z"
+  },
+  {
+    "id": "TM-018",
+    "app": "talent",
+    "title": "共通マスタ（組織／役職／区分／ID 体系／SoR）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.068Z"
+  },
+  {
+    "id": "TM-019",
+    "app": "talent",
+    "title": "人員構成 CSV（BOM・ファイル名）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.068Z"
+  },
+  {
+    "id": "TM-021",
+    "app": "talent",
+    "title": "システム連携の契約・状態（モック／未接続）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.068Z"
+  },
+  {
+    "id": "TM-024",
+    "app": "talent",
+    "title": "通知一覧の表示",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.068Z"
+  },
+  {
+    "id": "TM-069",
+    "app": "talent",
+    "title": "有償稼働率 速報タブの表示",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.069Z"
+  },
+  {
+    "id": "TM-071",
+    "app": "talent",
+    "title": "アサイン管理表 CSV（財務報告用）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.069Z"
+  },
+  {
+    "id": "TM-075",
+    "app": "talent",
+    "title": "月次締め：将来月は締められない（閲覧のみ）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.069Z"
+  },
+  {
+    "id": "RV-001",
+    "app": "review",
+    "title": "ログイン後マイページ（HR は管理メニューあり）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.069Z"
+  },
+  {
+    "id": "RV-005",
+    "app": "review",
+    "title": "HR 管理者のサイドバー（管理・評価ステータス・委員会・分析）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-006",
+    "app": "review",
+    "title": "FY27 年間スケジュール（閲覧のみ、保存しない）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-007",
+    "app": "review",
+    "title": "評価モデル（階層ミックス・稼働率 KPI・閾値）の値",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-008",
+    "app": "review",
+    "title": "達成度・判定ルールの既定値",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-011",
+    "app": "review",
+    "title": "評価対象・委員会（委員 5 名）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-012",
+    "app": "review",
+    "title": "カウンセラーアサイン（林 拓海 → 木下 慎一）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-013",
+    "app": "review",
+    "title": "PJ アサイン・バリデーション（FY26・エラーで落ちない）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-064",
+    "app": "review",
+    "title": "評価委員会 横断一覧（列の確認）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-083",
+    "app": "review",
+    "title": "委員会 CSV（HR は昇給率列あり）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-067",
+    "app": "review",
+    "title": "成長トレンド・スコア分布の表示",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-068",
+    "app": "review",
+    "title": "評価マトリクス 3×4・キャリブレーション",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-069",
+    "app": "review",
+    "title": "評価ステータス（FY26）の表示",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-082",
+    "app": "review",
+    "title": "評価ステータス CSV",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "RV-PERF",
+    "app": "review",
+    "title": "主要画面の表示時間（参考）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "AC-003",
+    "app": "accounts",
+    "title": "ユーザー一覧（在籍・件数・バッジ）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "AC-004",
+    "app": "accounts",
+    "title": "製品別の絞り込み（?product=sfa / talent）と CSV",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  },
+  {
+    "id": "AC-012",
+    "app": "accounts",
+    "title": "組織・役職マスタ／監査ログ／プロダクト（閲覧）",
+    "status": "未実行",
+    "notes": "認証情報（INTS_UAT_EMAIL / INTS_UAT_PASSWORD）が未設定",
+    "sec": "0.0",
+    "at": "2026-11-17T12:23:40.070Z"
+  }
+]
